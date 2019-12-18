@@ -1,0 +1,38 @@
+.footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+.p{
+     margin-bottom: 10px;
+}
+#d2{
+    float: left;
+}
+#d3{
+    position: relative;
+    left: 20px;
+    float: left;
+}
+#d4{
+    position: relative;
+    float: left;
+}
+#d5{
+    position: relative;
+    left: 20px;
+    float: left;
+}
+#btn1{
+    position: relative;
+    left: 900px;
+    float: left;
+    margin: 10px;
+}
+#btn2{
+    position: relative;
+    left: 900px;
+    float: left;
+    margin: 10px;
+}
+
